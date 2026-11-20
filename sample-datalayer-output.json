@@ -1,0 +1,7 @@
+{
+  "event": "gravity_form_submit",
+  "form_id": "3",
+  "form_name": "",
+  "confirmation_type": "message",
+  "page_path": "/contact/"
+}
